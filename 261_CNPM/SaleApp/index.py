@@ -14,7 +14,7 @@ def index():
 
 @app.route("/product/<int:id>")
 def detail(id):
-    return render_template("prod_detail.html", id=id)
+    return render_template("prod_detail.html", id=id, prods=prods)
 
 
 if __name__ == "__main__":
