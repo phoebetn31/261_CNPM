@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone iPhone 15 Pro",
+    "price": 999.00,
+    "cate_id": 1,
+    "image": "https://product.hstatic.net/1000300544/product/download__4__7d57157e7100431db9280bb4766a31ec.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop MacBook Air M3",
+    "price": 1299.50,
+    "cate_id": 2,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/0/1/01_6_4_1_3.png?_gl=1*o567sa*_gcl_aw*R0NMLjE3OTE5NjMyOTIuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY0FmZm5zR2ZkOGF6UlR6aUwzdjhTX1RKVUg0Xy1mTHk0T3VFa2hFY0U1SHNmYmY5dVBJZXF4b0NmbVFRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzAkdDE3OTE5NjMyOTEkajYwJGwwJGgxNjA0ODAwNDQ5"
+  },
+  {
+    "id": 3,
+    "name": "iPad Pro M4",
+    "price": 999.00,
+    "cate_id": 3,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_720_3.png?_gl=1*1anamb5*_gcl_aw*R0NMLjE3OTE5NjM3MjMuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY0lXMnVLdnRLXzhaQUJoVHYybFpVVWo4dHotWEVOUzZNYXd2YVIybHVCX19wVlJtSTk2UWlSb0MtbWtRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzEkdDE3OTE5NjM3MjMkajYwJGwwJGgxNjA0ODAwNDQ5"
+  },
+  {
+    "id": 4,
+    "name": "Đồng hồ Apple Watch Series 9",
+    "price": 399.00,
+    "cate_id": 4,
+    "image": "https://hanhtech.com/wp-content/uploads/2023/11/apple-watch-series-9-41mm-lte-vien-nhom-day-cao-su-chinh-hang-vn-a-image.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tai nghe chống ồn Sony WH-1000XM5",
+    "price": 349.00,
+    "cate_id": 5,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-3.png?_gl=1*mhh4x4*_gcl_aw*R0NMLjE3OTE5NjM3OTcuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY041WFhhSXB2eC05NjJCeWpaRlQ4V0VINjJvSE5pREdCOEtQRGdYcVBlSTN1NDhHTFVQM214b0NPNXdRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzEkdDE3OTE5NjM3OTckajU5JGwwJGgxNjA0ODAwNDQ5"
+  }
+]
