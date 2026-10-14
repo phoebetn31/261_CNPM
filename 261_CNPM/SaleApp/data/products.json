@@ -11,14 +11,14 @@
     "name": "Laptop MacBook Air M3",
     "price": 1299.50,
     "cate_id": 2,
-    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/0/1/01_6_4_1_3.png?_gl=1*o567sa*_gcl_aw*R0NMLjE3OTE5NjMyOTIuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY0FmZm5zR2ZkOGF6UlR6aUwzdjhTX1RKVUg0Xy1mTHk0T3VFa2hFY0U1SHNmYmY5dVBJZXF4b0NmbVFRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzAkdDE3OTE5NjMyOTEkajYwJGwwJGgxNjA0ODAwNDQ5"
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/0/1/01_6_4_1_3.png"
   },
   {
     "id": 3,
     "name": "iPad Pro M4",
     "price": 999.00,
     "cate_id": 3,
-    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_720_3.png?_gl=1*1anamb5*_gcl_aw*R0NMLjE3OTE5NjM3MjMuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY0lXMnVLdnRLXzhaQUJoVHYybFpVVWo4dHotWEVOUzZNYXd2YVIybHVCX19wVlJtSTk2UWlSb0MtbWtRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzEkdDE3OTE5NjM3MjMkajYwJGwwJGgxNjA0ODAwNDQ5"
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/1/_/1_720_3.png"
   },
   {
     "id": 4,
@@ -32,6 +32,41 @@
     "name": "Tai nghe chống ồn Sony WH-1000XM5",
     "price": 349.00,
     "cate_id": 5,
-    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-3.png?_gl=1*mhh4x4*_gcl_aw*R0NMLjE3OTE5NjM3OTcuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY041WFhhSXB2eC05NjJCeWpaRlQ4V0VINjJvSE5pREdCOEtQRGdYcVBlSTN1NDhHTFVQM214b0NPNXdRQXZEX0J3RQ..*_gcl_au*MTMzNzE5NTE2MC4xNzkxOTYzMjkw*_ga*MTYzMDIzODQ2Ny4xNzkxOTYzMjkx*_ga_QLK8WFHNK9*czE3OTE5NjMyOTEkbzEkZzEkdDE3OTE5NjM3OTckajU5JGwwJGgxNjA0ODAwNDQ5"
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-3.png"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone iPhone 15 Pro Max",
+    "price": 1199.00,
+    "cate_id": 1,
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/09/13/iphone-15-pro-max-titan-tu-nhien.png"
+  },
+  {
+    "id": 7,
+    "name": "Smartphone iPhone 15",
+    "price": 799.00,
+    "cate_id": 1,
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/09/13/iphone-15-pink.png"
+  },
+  {
+    "id": 8,
+    "name": "Smartphone iPhone 14 Pro Max",
+    "price": 1099.00,
+    "cate_id": 1,
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/iphone-14-pro-max-purple.png"
+  },
+  {
+    "id": 9,
+    "name": "Smartphone iPhone 14",
+    "price": 699.00,
+    "cate_id": 1,
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/iphone-14-blue.png"
+  },
+  {
+    "id": 10,
+    "name": "Smartphone iPhone 13",
+    "price": 599.00,
+    "cate_id": 1,
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/09/15/iphone-13-pink.png"
   }
 ]
