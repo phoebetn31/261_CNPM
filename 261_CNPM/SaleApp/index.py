@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
+from flask_sqlalchemy import SQLAlchemy
 import dao
-
-app = Flask(__name__)
 
 @app.route("/")
 def index():
@@ -13,8 +12,14 @@ def index():
     return render_template("index.html", cates=cates, prods=prods)
 
 @app.route("/product/<int:id>")
-def detail(id):
-    return render_template("prod_detail.html", id=id, prods=prods)
+def details(id):
+    return render_template("prod_detail.html", prod=dao.get_product_by_id(id))
+
+@app.context_processor
+def common_attribute():
+    return {
+        "cates": dao.load_categories()
+    }
 
 
 if __name__ == "__main__":
